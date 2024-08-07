@@ -38,6 +38,7 @@ recommend USA to make more investment in sending more athletes?
      anomalies.
    • Engage in data cleaning and preprocessing tasks to address missing values, outliers, or inconsistencies, ensuring the dataset's quality 
      and integrity.
+     
 **3. Define Analytical Objectives**:
    • Clearly articulate the specific questions or hypotheses to be addressed through the data analytics process.
    • Identify key metrics, variables, or factors of interest that will be examined to answer the targeted questions effectively.
