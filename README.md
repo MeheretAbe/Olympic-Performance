@@ -29,8 +29,6 @@ recommend USA to make more investment in sending more athletes?
 - The dataset is obtained [here from Kaggle][https://www.kaggle.com/code/mateoiglesias/olympic-games/input
 - [ https://www.kaggle.com/code/mateoiglesias/olympic-games/input
 
-[here from Kaggle]([https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction?datasetId=1582403&sortBy=voteCount&searchQuery=logi]
-
 
 **2. Data Examination and Exploration**:
    • thorough exploration and inspection of the dataset to understand its structure,variables, and potential limitations.
