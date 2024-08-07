@@ -27,8 +27,6 @@ recommend USA to make more investment in sending more athletes?
 
 **1. Dataset Exploration**: 
 - The dataset is obtained [here from Kaggle][https://www.kaggle.com/code/mateoiglesias/olympic-games/input
-- [ https://www.kaggle.com/code/mateoiglesias/olympic-games/input
-
 
 **2. Data Examination and Exploration**:
    • thorough exploration and inspection of the dataset to understand its structure,variables, and potential limitations.
