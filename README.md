@@ -25,23 +25,28 @@ recommend USA to make more investment in sending more athletes?
 
 **Data Analytics Workflow:** 
 
-1. Dataset Exploration: The dataset is obtained [here from Kaggle]([https://www.kaggle.com/datasets](https://www.kaggle.com/code/mateoiglesias/olympic-games/input))
+**1. Dataset Exploration**: 
+- The dataset is obtained [here from Kaggle][https://www.kaggle.com/code/mateoiglesias/olympic-games/input
+- [ https://www.kaggle.com/code/mateoiglesias/olympic-games/input
 
-2. Data Examination and Exploration:
+[here from Kaggle]([https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction?datasetId=1582403&sortBy=voteCount&searchQuery=logi]
+
+
+**2. Data Examination and Exploration**:
    • thorough exploration and inspection of the dataset to understand its structure,variables, and potential limitations.
    • Employ descriptive statistics, data visualization techniques, and preliminary analyses to uncover any notable patterns, trends, or 
      anomalies.
    • Engage in data cleaning and preprocessing tasks to address missing values, outliers, or inconsistencies, ensuring the dataset's quality 
      and integrity.
-4. Define Analytical Objectives:
+**3. Define Analytical Objectives**:
    • Clearly articulate the specific questions or hypotheses to be addressed through the data analytics process.
    • Identify key metrics, variables, or factors of interest that will be examined to answer the targeted questions effectively.
 
-5. Analytical Techniques:
+**4. Analytical Techniques**:
    • Select appropriate analytical methods and techniques based on the nature of the questions and
 the characteristics of the dataset.
 
-6. Unveiling Discoveries:
+**5. Unveiling Discoveries**:
    • Conduct in-depth analysis and exploration of the data to unveil any unexpected or insightful
 discoveries that may emerge during the analytical process.
    • Utilize exploratory data analysis techniques, and advanced modeling approaches to uncover novel insights or patterns within the data.
