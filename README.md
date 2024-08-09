@@ -48,5 +48,5 @@ the characteristics of the dataset.
 discoveries that may emerge during the analytical process.
    • Utilize exploratory data analysis techniques, and advanced modeling approaches to uncover novel insights or patterns within the data.
    
-[Olympic Performance Dashboard](https://public.tableau.com/app/profile/meret1669/viz/OlympicPerformance_17230451410000/Story1?publish=yes).
+[Olympic Performance Dashboard](https://public.tableau.com/app/profile/meret1669/viz/OlympicPerformance_17230451410000/Story1).
 
