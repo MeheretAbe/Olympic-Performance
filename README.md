@@ -7,7 +7,7 @@
 
 
 **Goal of the Project:** 
-- <b>Exploring Competitors: Identify the USA’s closest overall competitors and in each discipline (sports) throughout the years. </b> 
+- <>Exploring Competitors: Identify the USA’s closest overall competitors and in each discipline (sports) throughout the years. <> 
 - <b>Geographic Analysis: Examine the geographical distribution of medals, identifying trends in the dominance of specific continents or regions. </b> 
 - <b>Core Competencies: Analyze the core competency of the USA's closest competitors. You may consider different factors such as athlete physical characteristics (height, and weight), age, and gender.</b> 
 - <b>Analyzing Athletes' Physical Characteristics: Investigate the correlation between athletes' 
